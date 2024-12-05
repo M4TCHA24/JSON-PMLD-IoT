@@ -1,0 +1,33 @@
+{
+  "PMLD": {
+    "HE": {
+      "val": 1
+    },
+    "LCD": {
+      "Col1": "\"1\"",
+      "Col2": "\"4\"",
+      "State": "0",
+      "Text1": "\"teks1\"",
+      "Text2": "\"teks2\""
+    },
+    "OLED": {
+      "State": "0",
+      "posX": "\"0\"",
+      "posY": "\"2\"",
+      "sizeText": "\"1\"",
+      "text": "\"Tes\""
+    },
+    "PIR": {
+      "val": 1
+    },
+    "Relay": {
+      "Rel1": "1",
+      "Rel2": "0",
+      "State": "1"
+    },
+    "TES": {
+      "LED": "\"2\"",
+      "val_I": 4
+    }
+  }
+}
